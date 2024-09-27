@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAB TASK 2 Kamal Khalilov</string>
+    <string name="enter_text">Type text …</string>
+    <string name="count_button">Count</string>
+    <string name="result_label">Found: </string>
+    <string name="toast_empty_text">Enter text</string>
+    <string name="spinner_select">Select count type</string>
+    <string-array name="count_options">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+</resources>
